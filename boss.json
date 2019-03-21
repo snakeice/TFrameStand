@@ -6,5 +6,5 @@
 	"homepage": "",
 	"mainsrc": "src/",
 	"supported": "26",
-	"dprojFile": "packages\FrameStandPackage_10_3.dproj"
+	"dprojFile": "packages/FrameStandPackage_10_3.dproj"
 }
