@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "private": false,
   "homepage": "",
-  "mainsrc": "src/",
+  "mainsrc": "source/",
   "supported": "26",
   "projects": ["packages/FrameStandPackage_10_3.dproj"]
 }
